@@ -5,14 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello, Welcome!</h1>
+        <h1>مرحباً، أهلاً وسهلاً!</h1>
         <p>
-          This is a simple React.js application. (modified version)
+          هذا تطبيق React.js بسيط. (نسخة معدلة)
           <br />
-          It is built on Node.js and bundled using Webpack.
+          تم بناؤه على Node.js وتم تجميعه باستخدام Webpack.
         </p>
         <div className="welcome-message">
-          <p>Welcome! This page is built with React components.</p>
+          <p>أهلاً وسهلاً! تم بناء هذه الصفحة باستخدام مكونات React.</p>
         </div>
       </header>
     </div>
