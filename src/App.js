@@ -5,14 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>안녕하세요, 반갑습니다!</h1>
+        <h1>Hello, Welcome!</h1>
         <p>
-          이것은 간단한 React.js 애플리케이션입니다.
+          This is a simple React.js application.
           <br />
-          Node.js 기반으로 구성되었으며, 웹팩을 사용하여 번들링됩니다.
+          It is built on Node.js and bundled using Webpack.
         </p>
         <div className="welcome-message">
-          <p>환영합니다! 이 페이지는 React 컴포넌트로 구성되어 있습니다.</p>
+          <p>Welcome! This page is built with React components.</p>
         </div>
       </header>
     </div>
