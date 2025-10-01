@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Hello, Welcome!</h1>
         <p>
-          This is a simple React.js application.
+          This is a simple React.js application. (modified version)
           <br />
           It is built on Node.js and bundled using Webpack.
         </p>
